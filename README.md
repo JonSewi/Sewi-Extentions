@@ -12,6 +12,8 @@ I'm just trying to make Bitwig suit my needs more, and figure that others may be
 Bitwig doesn't have a way to automatically populate new tracks in a session (yet), and that's annoying to anybody wanting the same channelstrip on every track.
 So here's an extention that 'fixes' that. more like a patch... 
 
+https://user-images.githubusercontent.com/109223338/184865688-a8bf2541-898c-4097-8da4-2e321d3b8eed.mp4
+
 ## Functionality
 - Requires a (currently audio FX) preset to be saved with the tag 'Template'. 
 - Looks for changes in track number
