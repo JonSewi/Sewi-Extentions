@@ -1,5 +1,5 @@
-# Sewi-Extentions
-Here's my collection of Bitwig extentions (a.k.a. Remote Scripts).
+# Sewi-Extensions
+Here's my collection of Bitwig extensions (a.k.a. Remote Scripts).
 I'm new to a lot of things in the dev world, including Git, so helpful feedback is appreciated.
 
 !! I'm sharing these for collaborative purposes. For growth. 
