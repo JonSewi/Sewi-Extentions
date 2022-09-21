@@ -18,17 +18,17 @@ https://user-images.githubusercontent.com/109223338/184865688-a8bf2541-898c-4097
 - Rewrote the whole thing to be _much_ cleaner and easier to expand, bugfix, etc.
 
 - Added: **Auto insert mode!**
--   The preferences page has fields to input device ID's.
--   You can right click on devices in Bitwig to copy the device ID. you can then paste it in the input field.
--   ID's are automatically identified as VST2, VST3 or Bitwig Native. 
--   (Also has an input field that can function as a little notepad where you can write down the name of the device)
+The preferences page has fields to input device ID's.
+You can right click on devices in Bitwig to copy the device ID. you can then paste it in the input field.
+ID's are automatically identified as VST2, VST3 or Bitwig Native. 
+(Also has an input field that can function as a little notepad where you can write down the name of the device)
 
 - Changed: Browser mode. 
--   Now has an input field in the preferences for the name of the template tag. Makes customizing and switching much easier. 
--   Now slower for testing, but much more stable. Will be made faster in a future update. 
+Now has an input field in the preferences for the name of the template tag. Makes customizing and switching much easier. 
+Now slower for testing, but much more stable. Will be made faster in a future update. 
 
 - Removed: Document settings. 
--   This feature may return in the future, but was a bit annoying to implement at the moment and seemed a little niche anyways.
+This feature may return in the future, but was a bit annoying to implement at the moment and seemed a little niche anyways.
 
 --------
 
