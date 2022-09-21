@@ -6,18 +6,27 @@ I'm new to a lot of things in the dev world, including Git, so helpful feedback 
 In no means are these meant to be bug-free, flexible for *your* workflow, stable, or efficient. 
 I'm just trying to make Bitwig suit my needs more, and figure that others may benefit. !!
 
-# Track Templates
+# Track Templates - Automatically add default devices to any new track!
 *(version: 0.SoftWater - quite useful and nice to have, but can feel a bit sticky or slimy if you're not used to it.)*
+
+
+<details><summary>Video demos</summary> 
+
+## Auto insert mode
+https://user-images.githubusercontent.com/109223338/191467097-7f08aa26-5864-48d8-bd38-1e8b8ba4613f.mp4
+      
+</details>
 
 Bitwig doesn't have a way to automatically populate new tracks in a session (yet), and that's annoying to anybody wanting the same channelstrip on every track.
 So here's an extention that 'fixes' that. more like a patch... 
 
-https://user-images.githubusercontent.com/109223338/184865688-a8bf2541-898c-4097-8da4-2e321d3b8eed.mp4
+https://user-images.githubusercontent.com/109223338/191462675-dd611ebb-684f-4855-986b-f1977daf2244.mp4
 
 ## Latest Changes (sept 29 2022)
+
 - Rewrote the whole thing to be _much_ cleaner and easier to expand, bugfix, etc.
 
-- Added: **Auto insert mode!**
+- Added: **Auto insert mode!** 
    - The preferences page has fields to input device ID's. (You can right click on devices in Bitwig to copy the device ID. you can then paste it in the input field.)
    - ID's are automatically identified as VST2, VST3 or Bitwig Native. 
    - (Also has an input field that can function as a little notepad where you can write down the name of the device)
